@@ -16,11 +16,17 @@
 
 ## destructuring
 * [array-destructuring](https://github.com/dl-watson/career-track-prework/blob/destructuring/array-destructuring.js)
+ * this exercise introduced syntax for destructuring arrays to make shorter code, and how to extract specific elements from arrays using this syntax. 
 * [destructuring-function-parameters](https://github.com/dl-watson/career-track-prework/blob/destructuring/destructuring-function-parameters.js)
+ * this exercise most helpfully introduced the concept of a default function parameter, a concept that's returned to in the _function-defaults_ section. 
 * [destructuring-with-alias](https://github.com/dl-watson/career-track-prework/blob/destructuring/destructuring-with-alias.js)
+ * this exercise explored how to assign property values to new variables while destructuring. 
 * [destructuring-with-defaults](https://github.com/dl-watson/career-track-prework/blob/destructuring/destructuring-with-defaults.js)
+ * this exercise expanded on the previous section, exploring how to implement this concept within different primitive datatypes. 
 * [object-destructuring](https://github.com/dl-watson/career-track-prework/blob/destructuring/object-destructuring.js)
+ * this exercise explored destructuring with objects, objects containing arrays or arrays containing objects, and special cases involving undefined refs and builtins. 
 * [string-destructuring](https://github.com/dl-watson/career-track-prework/blob/destructuring/string-destructuring.js)
+ * this exercise demonstrated how to use destructuring with strings. 
 
 ## rest
 * [rest-as-a-parameter](https://github.com/dl-watson/career-track-prework/blob/rest/rest-as-a-parameter.js)
